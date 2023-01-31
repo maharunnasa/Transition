@@ -3,6 +3,7 @@ body{
 }
 .room{
     height: 600px;
+    width: 560px;
     background-image:
         linear-gradient(#7E429B, #e093ab);
     transition: height 2s, width 2s;
